@@ -5,6 +5,7 @@ currency app using
 -   react js
     *react-redux-toolkit
     *rapid-api
+    *chart js
 -   for ui I used ant/design
 
 ## Available Scripts
